@@ -1,0 +1,2588 @@
+[
+  {
+    "name": "金道勋",
+    "alias": [
+      "道勋",
+      "勋"
+    ],
+    "description": "男主角，28岁的职业玩家"
+  },
+  {
+    "name": "黄伟明",
+    "alias": [
+      "伟明",
+      "小黄"
+    ],
+    "description": "男主角的好友"
+  },
+  {
+    "name": "李敏智",
+    "alias": [],
+    "description": "女主角，游戏公司策划"
+  },
+  {
+    "name": "朴在贤",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "尹百贤",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "최수만",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "李亚兰",
+    "alias": [
+      "亚兰"
+    ],
+    "description": "护士，姜素珍称呼她为“쌤 (老师/前辈)”。"
+  },
+  {
+    "name": "姜素珍",
+    "alias": [],
+    "description": "护士。"
+  },
+  {
+    "name": "손건우 → 孙建宇",
+    "alias": [],
+    "description": "医生姓名，出现在病房名牌上，身份是主治医生。"
+  },
+  {
+    "name": "이환 → 李焕",
+    "alias": [],
+    "description": "医生姓名，出现在病房名牌上，身份是负责教授。"
+  },
+  {
+    "name": "강성진 → 姜成镇",
+    "alias": [],
+    "description": "医生姓名，出现在病房名牌上，身份是主治医生。"
+  },
+  {
+    "name": "지석우 → 池锡佑",
+    "alias": [],
+    "description": "医生姓名，出现在病房名牌上，身份是负责教授。"
+  },
+  {
+    "name": "황지훈",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "김양락 → 金良洛",
+    "alias": [],
+    "description": "助理教授，在新文本中首次出现的人物。"
+  },
+  {
+    "name": "이용진 → 李容镇",
+    "alias": [],
+    "description": "济元大学医院的总住院医生兼科室负责人 (의국장)。"
+  },
+  {
+    "name": "윤 과장 → 尹科长",
+    "alias": [],
+    "description": "提及的花郎台医院的科长，似乎与崔秀满教授的事件有关。"
+  },
+  {
+    "name": "김순례 → 金顺礼",
+    "alias": [],
+    "description": "患者姓名，在会议简报中被提及。"
+  },
+  {
+    "name": "양승국 → 杨胜国",
+    "alias": [],
+    "description": "患者姓名，接受了OPCAB手术，后出现头痛和面部痉挛，胸外科请求神经外科进行会诊。"
+  },
+  {
+    "name": "심재희 → 申才熙",
+    "alias": [],
+    "description": "患者姓名，因椎间盘突出症预定接受手术。"
+  },
+  {
+    "name": "유진희 → 柳珍熙",
+    "alias": [],
+    "description": "护士长。"
+  },
+  {
+    "name": "최수용 → 崔秀容",
+    "alias": [],
+    "description": "在急诊室接受检查的患者姓名。"
+  },
+  {
+    "name": "유지애 → 柳智爱",
+    "alias": [],
+    "description": "放射科技师，在新文本中首次出现的人物。"
+  },
+  {
+    "name": "유재진 → 柳在镇",
+    "alias": [],
+    "description": "二年资住院医生，与姜成镇并称“镇镇兄弟”。"
+  },
+  {
+    "name": "진진 브라더스 → 镇镇兄弟",
+    "alias": [],
+    "description": "朴在贤私下里给姜成镇和柳在镇起的外号。"
+  },
+  {
+    "name": "권용훈 → 权勇勋",
+    "alias": [],
+    "description": "患者姓名，出现在601病房，因发烧、发冷、头痛被护士报告给医生。"
+  },
+  {
+    "name": "이훈 → 李勋",
+    "alias": [],
+    "description": "在影像诊断科工作的医生，黄志勋的同期。"
+  },
+  {
+    "name": "양구열 → 杨求烈",
+    "alias": [],
+    "description": "济元大学医院神经外科出身的天才住院医生 (전공의)，是孙建宇回忆中提及的人物。"
+  },
+  {
+    "name": "백현석 → 白贤硕",
+    "alias": [],
+    "description": "新出现的VIP患者姓名，59岁，诊断为脑动脉瘤，是池锡佑教授负责的病人。"
+  },
+  {
+    "name": "金贤宇",
+    "alias": [],
+    "description": "患者姓名，在急诊室出现的10岁男孩。"
+  },
+  {
+    "name": "양 선생님 → 杨护士/杨老师",
+    "alias": [],
+    "description": "文中提到的护士，朴在贤请她给患者用药。(注：译文明确为“杨护士”，韩语原文用尊称“선생님”。)"
+  },
+  {
+    "name": "김현웅 → 金贤雄",
+    "alias": [],
+    "description": "患者金贤宇的父亲。"
+  },
+  {
+    "name": "현우 어머니 → 贤宇的母亲",
+    "alias": [],
+    "description": "患者金贤宇的母亲 (根据上下文推断为继母，即下文的 `새 엄마`)。"
+  },
+  {
+    "name": "새 엄마 → 新妈妈 / 继母",
+    "alias": [],
+    "description": "指患者金贤宇的继母，文中被指控施暴。"
+  },
+  {
+    "name": "아버님 → 父亲",
+    "alias": [],
+    "description": "韩语中对他人父亲的尊称，或对自己父亲的敬称，此处金贤雄用作自称（현우 아버님/贤宇父亲），朴在贤也以此称呼他。"
+  },
+  {
+    "name": "아내 → 妻子",
+    "alias": [],
+    "description": "指金贤雄的妻子，即贤宇的继母。"
+  },
+  {
+    "name": "어머니 → 母亲",
+    "alias": [],
+    "description": "指贤宇的（继）母亲。 (注: 术语库已有 `현우 어머니` 和 `새 엄마`，此为单独使用的通用词)"
+  },
+  {
+    "name": "아이 → 孩子",
+    "alias": [],
+    "description": "指儿童，文中特指金贤宇。 (注: 术语库已有医学术语 `소아 / 小儿`)"
+  },
+  {
+    "name": "윤동률 → 尹东律",
+    "alias": [],
+    "description": "神经外科科长。"
+  },
+  {
+    "name": "마취의 → 麻醉医生",
+    "alias": [],
+    "description": "指负责实施麻醉的医生 (Anesthesiologist)。"
+  },
+  {
+    "name": "강예나 → 姜艺娜",
+    "alias": [],
+    "description": "手术护士 (出现在新文本中)"
+  },
+  {
+    "name": "여보 → 老伴儿",
+    "alias": [],
+    "description": "夫妻间的称呼。"
+  },
+  {
+    "name": "노부부 → 老两口",
+    "alias": [],
+    "description": "指年老的夫妇。"
+  },
+  {
+    "name": "수정",
+    "alias": [
+      "수정 선배"
+    ],
+    "description": "负责脑血管造影术的前辈医生 (선배)，在新文本中首次被提及，因对姜成镇态度严厉而被描述。"
+  },
+  {
+    "name": "유수정",
+    "alias": [
+      "수정"
+    ],
+    "description": ""
+  },
+  {
+    "name": "장 간호사 → 张护士",
+    "alias": [],
+    "description": "与朴在贤互动的护士。(Nurse who interacts with Park Jae-hyun in the scene.)"
+  },
+  {
+    "name": "김점례 → 金点礼",
+    "alias": [],
+    "description": "患者姓名，姜成镇向护士询问其情况。(Patient's name mentioned by Kang Sung-jin when asking the nurse about her condition)."
+  },
+  {
+    "name": "신지훈 → 申志勋",
+    "alias": [],
+    "description": "呼吸内科医生，与朴在贤就会诊患者崔秀容的情况进行交谈。(Pulmonologist who consults with Park Jae-hyun regarding patient Choi Su-yong)."
+  },
+  {
+    "name": "이수환 → 李秀焕",
+    "alias": [],
+    "description": "患者姓名，准备接受腰部手术。"
+  },
+  {
+    "name": "현우 할머니 → 贤宇的奶奶",
+    "alias": [],
+    "description": "患者贤宇的奶奶，在病房照看贤宇。"
+  },
+  {
+    "name": "김지연 → 金智妍",
+    "alias": [],
+    "description": "女教授，负责脑肿瘤手术。"
+  },
+  {
+    "name": "김미영 → 金美英",
+    "alias": [],
+    "description": "患者姓名，34岁，入住602病房，因头痛加剧被护士报告给主治医生朴在贤，诊断名为Moyamoya病。"
+  },
+  {
+    "name": "아영이 → 雅英",
+    "alias": [],
+    "description": "患者金美英的女儿名字 (Patient Kim Mi-young's daughter's name)。"
+  },
+  {
+    "name": "이상문 → 李尚文",
+    "alias": [],
+    "description": "患者金美英的丈夫 (Patient Kim Mi-young's husband)。"
+  },
+  {
+    "name": "최 교수 → 崔教授",
+    "alias": [],
+    "description": "指崔秀满教授 (Refers to Professor Choi Soo-man)。 (注: 术语库已有崔秀满及各种教授职称，但未收录此常用称呼)"
+  },
+  {
+    "name": "고 선생님 → 高护士",
+    "alias": [],
+    "description": "被朴在贤呼叫准备腰椎穿刺的护士。"
+  },
+  {
+    "name": "강치환 → 姜治焕",
+    "alias": [],
+    "description": "患者姓名，在新文本中首次出现的人物，52岁，患有脑血栓症，预定接受栓塞术。"
+  },
+  {
+    "name": "이 교수 → 李教授",
+    "alias": [],
+    "description": "尹东律在巡诊结束后叫住的教授 (身份待确认，原文未明确是哪位李姓教授)。"
+  },
+  {
+    "name": "최기준",
+    "alias": [
+      "기준"
+    ],
+    "description": "与主角同期的医生。(Doctor colleague who joined at the same time as the protagonist)."
+  },
+  {
+    "name": "박 선생 → 朴医生",
+    "alias": [],
+    "description": "称呼朴医生的一种方式，比“朴老师/박 선생님”略显随意或传统。(注：术语库已有“선생님”，此为不带敬语后缀的称呼形式，在对话中被白贤硕使用)"
+  },
+  {
+    "name": "권용국 → 权容国",
+    "alias": [],
+    "description": "患者姓名，入住609病房，朴在贤看到其Ego并打算与之交谈。"
+  },
+  {
+    "name": "장현수 → 张贤秀",
+    "alias": [],
+    "description": "脑血管方向的助理教授，科长的熟人，能力一般但仗着科长撑腰行事傲慢，并且会打住院医生。"
+  },
+  {
+    "name": "송미란 → 宋美兰",
+    "alias": [],
+    "description": "急诊室患者姓名，CT显示蛛网膜下腔出血。"
+  },
+  {
+    "name": "김미영",
+    "alias": [
+      "美兰"
+    ],
+    "description": "患者姓名，34岁，入住602病房，因头痛加剧被护士报告给主治医生朴在贤，诊断名为Moyamoya病。(注：从新文本中确认 `미란` 指代 `김미영`)"
+  },
+  {
+    "name": "이명희 → 李明熙",
+    "alias": [],
+    "description": "患者权容国的妻子。"
+  },
+  {
+    "name": "양미래 → 杨护士",
+    "alias": [],
+    "description": "护士姓名，此前术语库记录为“杨护士/杨老师 (양 선생님)”。新文本中提供了全名。"
+  },
+  {
+    "name": "유 선생 → 柳医生",
+    "alias": [],
+    "description": "称呼柳医生的一种方式 (根据上下文，特指柳在镇)。"
+  },
+  {
+    "name": "김동석",
+    "alias": [
+      "东锡"
+    ],
+    "description": "金良洛在美国梅奥医院工作的同期，神经外科医生。"
+  },
+  {
+    "name": "윤나라 → 尹娜拉",
+    "alias": [],
+    "description": "患者姓名，60岁，因三叉神经痛从神经科转入神经外科。"
+  },
+  {
+    "name": "최대만 → 崔大万",
+    "alias": [],
+    "description": "患者姓名，在新文本中出现，出现说胡话、看到奇怪东西、意识混乱（问自己在哪、自己是谁）等症状。"
+  },
+  {
+    "name": "조경태 → 赵景泰",
+    "alias": [],
+    "description": "患者姓名，因头痛坚持要看神经外科门诊。"
+  },
+  {
+    "name": "윤 선생님 → 尹护士",
+    "alias": [],
+    "description": "与朴在贤互动，为患者赵景泰检查生命体征的护士。"
+  },
+  {
+    "name": "이지용 → 李智勇",
+    "alias": [],
+    "description": "负责朴在贤调查的警官。"
+  },
+  {
+    "name": "장 교수님 → 张教授",
+    "alias": [],
+    "description": "指张贤秀 (장현수) 的常用称呼 (基于术语库已有 `최 교수` / 崔教授 的先例)。"
+  },
+  {
+    "name": "가래 선생님",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "드르륵 선생님",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "김종민 → 金钟民",
+    "alias": [],
+    "description": "院务科科长 (新出现人物)"
+  },
+  {
+    "name": "지은",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "고동훈",
+    "alias": [],
+    "description": "患者姓名，45岁，因头晕、恶心、视物模糊就诊急诊。"
+  },
+  {
+    "name": "양승남 → 杨胜男",
+    "alias": [],
+    "description": "中年男性警察，开枪误伤患者（义务警察）的监护人/肇事者。"
+  },
+  {
+    "name": "김윤성 → 金允成",
+    "alias": [],
+    "description": "四年资医生，与金良洛一同在血管造影术结束时与朴在贤会合。 (*注：中文译文未给出姓名，此处根据韩文名音译，具体官方译名待确认*)"
+  },
+  {
+    "name": "시훈 → 时训",
+    "alias": [],
+    "description": "患者姓名 (推测)，家属在手术室外焦急询问时提及的孩子名字。 (*注：中文译文未给出姓名，此处根据韩文名音译，具体官方译名待确认*)"
+  },
+  {
+    "name": "김 교수 → 金教授",
+    "alias": [],
+    "description": "指金良洛教授 (Refers to Professor Kim Yang-rak)。(注: 术语库已有 `최 교수 / 崔教授` 等，此为对金良洛的常用称呼)。"
+  },
+  {
+    "name": "남태현 → 南泰贤",
+    "alias": [],
+    "description": "脑科方向的助理教授，在金良洛的手术中被提及，朴在贤需要坚持到他过来。"
+  },
+  {
+    "name": "남효찬 → 南孝灿",
+    "alias": [],
+    "description": "教授，柳秀晶在手术中通过视频通话向其请教的人物。"
+  },
+  {
+    "name": "이시훈 → 李时勋",
+    "alias": [],
+    "description": "患者姓名，因枪伤接受大手术后生命体征不稳。(Patient's name, condition unstable after major surgery for a gunshot wound.)"
+  },
+  {
+    "name": "도성규 → 都成奎",
+    "alias": [],
+    "description": "患者姓名，45岁，因脑肿瘤（胶质母细胞瘤3期）住院，想自行出院。"
+  },
+  {
+    "name": "崔美兰",
+    "alias": [],
+    "description": "都成奎的妻子。"
+  },
+  {
+    "name": "황재경 → 黄在景",
+    "alias": [],
+    "description": "神经外科门诊的护士，与朴在贤交谈。(Nurse at the neurosurgery outpatient clinic who interacts with Park Jae-hyun)."
+  },
+  {
+    "name": "金南惠",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "南教授",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "고태양 → 高泰阳",
+    "alias": [],
+    "description": "50多岁男性门诊患者，主诉症状包括头晕、手臂发麻刺痛和复视。"
+  },
+  {
+    "name": "강지원",
+    "alias": [
+      "지원"
+    ],
+    "description": "新出现的门诊患者，三十大几、长相俊秀、皮肤白皙、气质沉稳端庄，南孝灿教授对其态度异常热情，让朴在贤感觉他可能是一位名人或重要人物。"
+  },
+  {
+    "name": "미리내",
+    "alias": [],
+    "description": "姜支援的艺名 (Kang Ji-won's stage name)."
+  },
+  {
+    "name": "신석호 → 申锡浩",
+    "alias": [],
+    "description": "皮肤科科长，尹东律的同门后辈。"
+  },
+  {
+    "name": "최 간호사",
+    "alias": [],
+    "description": "肿瘤病房护士站的护士，与朴在贤交谈。"
+  },
+  {
+    "name": "김현아 → 金贤雅",
+    "alias": [],
+    "description": "患者姓名，10岁，入住肿瘤病房，诊断为神经母细胞瘤。"
+  },
+  {
+    "name": "현아 → 贤雅",
+    "alias": [],
+    "description": "患者姓名，患有脑肿瘤的小学生。(Patient's name, elementary school student with a brain tumor)."
+  },
+  {
+    "name": "어머님 → 母亲",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "조혜미 → 赵慧美",
+    "alias": [],
+    "description": "重症监护室的护士，在新文本中首次出现，向朴在贤报告了患者李时勋的情况。"
+  },
+  {
+    "name": "조 간호사 → 赵护士",
+    "alias": [],
+    "description": "向主角朴在贤表示关心并提供能量棒的护士。"
+  },
+  {
+    "name": "김샛별",
+    "alias": [
+      "샛별",
+      "샛별 선생님"
+    ],
+    "description": "新文本中首次出现的护士，被李亚兰提及，与朴在贤一同离开护士站前往参加郊游活动。其Ego形态为黑色灰烬构成的人。"
+  },
+  {
+    "name": "金샛别",
+    "alias": [],
+    "description": "与主角朴在贤在春季郊游活动前互动的女性，其Ego形态是“灰烬人”。"
+  },
+  {
+    "name": "고혜리 → 高慧丽",
+    "alias": [],
+    "description": "折磨金샛别的三年资护士。(Ko Hye-ri: Third-year nurse who bullies Kim Saet-byeol.)"
+  },
+  {
+    "name": "이태곤 → 李泰坤",
+    "alias": [],
+    "description": "胸外科科长 (新出现人物)。"
+  },
+  {
+    "name": "강태식 → 姜泰植",
+    "alias": [],
+    "description": "在郊游活动现场出现的人物，似乎是比尹科长职位更高或更有权威的人物，向领队询问医疗直升机的情况，并观察朴在贤的处置。(Appears at the outing scene, seems senior to Yoon Gwa-jang, asks the leader about the medical helicopter and observes Park Jae-hyun)."
+  },
+  {
+    "name": "인솔자 → 领队",
+    "alias": [],
+    "description": "负责带领郊游活动的负责人，向姜泰植汇报了医疗直升机的情况。(Leader of the outing group, reported helicopter status to Kang Tae-sik)."
+  },
+  {
+    "name": "박초롱 → 朴草绿",
+    "alias": [],
+    "description": "企划调整室组长。(Team Leader of the Planning and Coordination Office)."
+  },
+  {
+    "name": "박초롱",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "표학범",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "표 교수 → 表教授",
+    "alias": [],
+    "description": "对表学范教授的称呼。"
+  },
+  {
+    "name": "표학범 → 表学范",
+    "alias": [],
+    "description": "新调入神经外科的副教授，曾在梅奥医院工作，被认为是替代张贤秀的人才，但其副教授级别引起了现有教授（如李焕）的警惕。"
+  },
+  {
+    "name": "최아영 → 崔雅英",
+    "alias": [],
+    "description": "患者姓名，32岁，怀孕22周的产妇，胎儿被诊断为脊柱裂。"
+  },
+  {
+    "name": "崔雅英",
+    "alias": [],
+    "description": "新出现的患者，孕妇，其腹中胎儿被诊断出患有脊柱裂。"
+  },
+  {
+    "name": "주병수 → 朱炳秀",
+    "alias": [],
+    "description": "专科培训医生 (펠로우)，与柳秀晶一同加入会议。(Fellow doctor who joins the meeting with Yoo Su-jeong)."
+  },
+  {
+    "name": "주병수",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "남 교수 → 南教授",
+    "alias": [],
+    "description": "在此语境中指南孝灿教授。(注: 术语库已有指南泰贤的“南教授”，但此处特指南孝灿。)"
+  },
+  {
+    "name": "이유진 → 李宥真",
+    "alias": [],
+    "description": "护士，与金샛别一同在护士站工作。"
+  },
+  {
+    "name": "미주 → 美珠",
+    "alias": [],
+    "description": "护士，与高慧丽同为上午班。"
+  },
+  {
+    "name": "김대현 → 金大贤",
+    "alias": [],
+    "description": "患者姓名，入住604病房，需要灌肠。"
+  },
+  {
+    "name": "손현주 → 孙贤周",
+    "alias": [],
+    "description": "患者崔雅英的丈夫，崔&朴（Choi & Park）律师事务所的律师。"
+  },
+  {
+    "name": "손현주 → 孙贤柱",
+    "alias": [],
+    "description": "新人物，患者(崔雅英)的丈夫，职业是医疗诉讼专业律师。"
+  },
+  {
+    "name": "지호",
+    "alias": [
+      "志浩"
+    ],
+    "description": "朴在贤的亲弟弟，正在服兵役。"
+  },
+  {
+    "name": "형 → 哥",
+    "alias": [],
+    "description": "家庭关系称谓，弟弟对哥哥的称呼。(注: 现有术语库有`형님 / 大哥`)"
+  },
+  {
+    "name": "安成民",
+    "alias": [],
+    "description": "患者姓名，21岁，济元大学篮球部队员，梦想成为职业篮球运动员，因练习赛中晕倒被诊断为脑垂体瘤。"
+  },
+  {
+    "name": "이태원 → 李泰源",
+    "alias": [],
+    "description": "患者姓名，高慧丽正在为其更换输液袋的患者。(Patient Lee Tae-won, whose IV bag Ko Hye-ri was changing)."
+  },
+  {
+    "name": "유동석 → 柳东锡",
+    "alias": [],
+    "description": "患者姓名，突然摔倒的患者。(Patient Yoo Dong-seok, who suddenly fell)."
+  },
+  {
+    "name": "이태원 → 李泰元",
+    "alias": [],
+    "description": "患者姓名，高慧丽进入病房时提及需要为其更换输液袋。(Patient Lee Tae-won's name, mentioned by Go Hye-ri as needing an IV bag change)."
+  },
+  {
+    "name": "유동석 → 柳东石",
+    "alias": [],
+    "description": "患者姓名，高慧丽声称听到响声后发现其倒地。(Patient Yoo Dong-seok's name, who Go Hye-ri claimed to find collapsed after hearing a sound)."
+  },
+  {
+    "name": "이남해 → 李南海",
+    "alias": [],
+    "description": "负责护士，在护士站值班室工作，介入了高慧丽和朴在贤的争执。"
+  },
+  {
+    "name": "고 간호사 → 高护士",
+    "alias": [],
+    "description": "指高慧丽护士 (Nurse Go, referring to Go Hye-ri)。"
+  },
+  {
+    "name": "양수지",
+    "alias": [
+      "수지"
+    ],
+    "description": ""
+  },
+  {
+    "name": "이남해",
+    "alias": [],
+    "description": "护士长，最初支持高慧丽。(注：文本中称其为“李南海护士长”，但直接称谓多用“선생님/护士长”。)"
+  },
+  {
+    "name": "박철우 → 朴哲宇",
+    "alias": [],
+    "description": "专科培训医生，在崔雅英的胎儿手术中担任第一助手。(Fellow doctor, first assistant in Choi Ah-young's fetal surgery mentioned)."
+  },
+  {
+    "name": "윤가람 → 尹佳兰",
+    "alias": [],
+    "description": "妇产科助理教授，在新文本中被介绍，协助金良洛进行手术。"
+  },
+  {
+    "name": "`동생` → 弟弟",
+    "alias": [],
+    "description": "家庭关系称谓，指弟弟 (根据上下文特指志浩)。"
+  },
+  {
+    "name": "`녀석` → 这小子 / 家伙",
+    "alias": [],
+    "description": "(名词，非正式/略带贬义) 对人（尤指男性或年轻者）的非正式称呼。"
+  },
+  {
+    "name": "이지은 → 李智恩",
+    "alias": [],
+    "description": "院务科职员，为朴在贤办理员工折扣登记。(注: 文本中朴在贤称呼她为“유 선생님 / 柳老师”，但旁白明确其名为李智恩)。"
+  },
+  {
+    "name": "박 선생님 → 朴医生",
+    "alias": [],
+    "description": "对医生朴在贤的常用尊称 (使用敬语 `님`)。 (注: 术语库已有 `박 선생` 和 `선생님`)"
+  },
+  {
+    "name": "최재용 → 崔在勇",
+    "alias": [],
+    "description": "VIP患者姓名，昌焕集团高层。"
+  },
+  {
+    "name": "최훈",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "고은지",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "재용이",
+    "alias": [
+      "재용"
+    ],
+    "description": ""
+  },
+  {
+    "name": "최훈 → 崔勋",
+    "alias": [],
+    "description": "新人物，患者在勇的父亲，大集团总裁。"
+  },
+  {
+    "name": "고은지 → 高恩智",
+    "alias": [],
+    "description": "新人物，患者在勇的母亲。"
+  },
+  {
+    "name": "재용이 → 在勇",
+    "alias": [],
+    "description": "患有抽动症的儿童患者。(Child patient suffering from tics)."
+  },
+  {
+    "name": "나우성 → 罗佑成",
+    "alias": [],
+    "description": "在急诊室与朴在贤交谈的医生。(Doctor who interacts with Park Jae-hyun in the emergency room)."
+  },
+  {
+    "name": "나우성",
+    "alias": [
+      "나 선생님"
+    ],
+    "description": ""
+  },
+  {
+    "name": "염지훈 → 廉志勋",
+    "alias": [],
+    "description": "骨科医生，在新文本中与主角互动。"
+  },
+  {
+    "name": "이만기 → 李万基",
+    "alias": [],
+    "description": "患者姓名，初步诊疗结果指向神经外科和骨科。"
+  },
+  {
+    "name": "유혜빈 → 柳慧彬",
+    "alias": [],
+    "description": "患者姓名，初步诊疗结果指向骨科。"
+  },
+  {
+    "name": "곽도안 → 郭道安",
+    "alias": [],
+    "description": "患者姓名，初步诊疗结果指向骨科和胸外科。"
+  },
+  {
+    "name": "곽도안",
+    "alias": [],
+    "description": "患者姓名，接受胸部CT检查。(Patient's name, received a chest CT scan)."
+  },
+  {
+    "name": "이만기",
+    "alias": [],
+    "description": "患者姓名，接受腰部CT检查。(Patient's name, received a lumbar CT scan)."
+  },
+  {
+    "name": "박종민",
+    "alias": [],
+    "description": "患者姓名，需要颈椎和腰椎固定器。(Patient's name, needed cervical and lumbar fixation devices)."
+  },
+  {
+    "name": "손 집사님 → 孙执事",
+    "alias": [],
+    "description": "母亲教会里的执事，其儿子被旁人称赞长得像演员。(Deacon in the mother's church, whose son is praised by others for looking like an actor.)"
+  },
+  {
+    "name": "누나 → 姐姐",
+    "alias": [],
+    "description": "韩语中男性称呼比自己年长的女性（非亲属亦可），文中是朴在贤对朴草绿的称呼。"
+  },
+  {
+    "name": "`아빠` → 爸爸",
+    "alias": [],
+    "description": "指父亲（朴草绿对其父亲的称呼，区别于术语库中的正式称谓 `아버지` 或尊称 `아버님`）。"
+  },
+  {
+    "name": "`우리 딸` → 我的宝贝女儿",
+    "alias": [],
+    "description": "父亲对女儿（朴草绿）的亲昵称呼。"
+  },
+  {
+    "name": "에피아 → 艾皮娅",
+    "alias": [],
+    "description": "患者姓名，13岁非洲女孩，因结核性脊柱炎在济元大学医院接受免费治疗。(Patient's name, 13-year-old African girl receiving free treatment at Jewon University Hospital for tuberculous spondylitis)."
+  },
+  {
+    "name": "에피아 어머니 → 艾皮娅的母亲",
+    "alias": [],
+    "description": "患者艾皮娅的母亲，在病房陪伴。(Patient Epia's mother, accompanying her in the hospital room)."
+  },
+  {
+    "name": "에피아",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "양재호 → 杨在浩",
+    "alias": [],
+    "description": "专科培训医生，金良洛手术团队成员。 (Yang Jae-ho: Fellow doctor, member of Kim Yang-rak's surgical team)."
+  },
+  {
+    "name": "조성민",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "성민",
+    "alias": [],
+    "description": "三年资住院医生，在会议室里主动提出要帮孙建宇冲咖啡。(Mentioned in the meeting room scene, offered to make coffee for Son Gun-woo)."
+  },
+  {
+    "name": "정일훈 → 郑日勋",
+    "alias": [],
+    "description": "二年资住院医生 (二年资的住院医生)。"
+  },
+  {
+    "name": "이재욱 → 李在旭",
+    "alias": [],
+    "description": "三年资 (住院医生)，与孙慧智一同准备手术。(Third-year resident, preparing for surgery with Son Hye-ji)."
+  },
+  {
+    "name": "손혜지 → 孙慧智",
+    "alias": [],
+    "description": "二年资 (住院医生)，剃了患者头发，与李在旭一同准备手术。(Second-year resident, shaved the patient's head, preparing for surgery with Lee Jae-wook)."
+  },
+  {
+    "name": "권재범",
+    "alias": [
+      "권재범 과장님"
+    ],
+    "description": "仁川神经外科科长，与医院高层关系深厚。"
+  },
+  {
+    "name": "오현민 → 吴贤民",
+    "alias": [],
+    "description": "被朴在贤顶替的医生。"
+  },
+  {
+    "name": "김지희 → 金智熙",
+    "alias": [],
+    "description": "仁川济元大学医院神经外科病房的护士，与朴在贤首次互动。"
+  },
+  {
+    "name": "고상엽 → 高尚烨",
+    "alias": [],
+    "description": "仁川济元大学医院神经外科二年资住院医生。"
+  },
+  {
+    "name": "나봉준 → 罗凤俊",
+    "alias": [],
+    "description": "仁川济元大学医院神经外科一年资住院医生。"
+  },
+  {
+    "name": "봉준",
+    "alias": [
+      "나봉준"
+    ],
+    "description": ""
+  },
+  {
+    "name": "표 과장 → 表科长",
+    "alias": [],
+    "description": "对表学范的称呼 (由权在范提及)。"
+  },
+  {
+    "name": "이시형 → 李时亨",
+    "alias": [],
+    "description": "参与对话的住院医生 (文中与高尚烨交谈)。"
+  },
+  {
+    "name": "오명진 → 吴明镇",
+    "alias": [],
+    "description": "教授，与权在范就朴在贤担任其手术助手一事发生争执，认为四年资医生资历不足，要求安排专科培训医生。"
+  },
+  {
+    "name": "오명진",
+    "alias": [
+      "오 교수"
+    ],
+    "description": "吴明镇，不愿让朴在贤担任手术助手的医生。(Oh Myung-jin (Alias: Professor Oh): Doctor who resists having Park Jae-hyun assist in his surgery)."
+  },
+  {
+    "name": "이옥순 → 李玉顺",
+    "alias": [],
+    "description": "患者姓名，47岁，因头痛和瘫痪症状就诊，确诊为6厘米右侧小脑附近脑膜瘤。(Patient name, 47 years old, diagnosed with a 6cm meningioma near the right cerebellum after presenting with headache and paralysis symptoms)."
+  },
+  {
+    "name": "윤재문",
+    "alias": [],
+    "description": "前任总住院医生，郭道安提及的人物，被形容为没有干劲、只是因为死不了才活着。(Previous Chief Resident mentioned by Gwak Do-an, described as lacking motivation and just living because he couldn't die)."
+  },
+  {
+    "name": "곽 선생 → 郭医生",
+    "alias": [],
+    "description": "对医生郭道安 (곽도안) 的常用称呼，比“郭老师/곽 선생님”略显随意或传统。(注：术语库已有郭道安，以及“朴医生/박 선생”、“柳医生/유 선생”等类似称呼，此为对郭道安的同类称呼)。"
+  },
+  {
+    "name": "홍성철 → 洪成哲",
+    "alias": [],
+    "description": "脊柱方向的助理教授，朴在贤联系他进行急诊手术。"
+  },
+  {
+    "name": "김태현 → 金泰贤",
+    "alias": [],
+    "description": "患者姓名，在对话中被提及，是家属的儿子。"
+  },
+  {
+    "name": "홍 교수 → 洪教授",
+    "alias": [],
+    "description": "对洪成哲教授的常用称呼 (Common way to refer to Professor Hong Seong-cheol)."
+  },
+  {
+    "name": "경문왕",
+    "alias": [],
+    "description": "신라 시대의 왕 (景文王: 新罗时代的王)"
+  },
+  {
+    "name": "복두장",
+    "alias": [],
+    "description": "경문왕의 비밀을 알게 된 모자 장인 (帽匠: 得知景文王秘密的帽匠)"
+  },
+  {
+    "name": "장화란 → 张华兰",
+    "alias": [],
+    "description": "参与讨论李时亨医生处分的女性人物。"
+  },
+  {
+    "name": "최동문 → 崔东文",
+    "alias": [],
+    "description": "参与讨论李时亨医生处分的男性人物，最后开口发言。"
+  },
+  {
+    "name": "과장님 → 科长",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "최동민 → 崔东民",
+    "alias": [],
+    "description": "住院医生教育培训委员会副会长，消化内科三年资。"
+  },
+  {
+    "name": "유성수 → 柳成秀",
+    "alias": [],
+    "description": "患者姓名，几天前朴在贤为他紧急做了外伤性椎间盘破裂手术和螺钉固定术。(Patient who underwent emergency surgery for traumatic disc rupture and screw fixation performed by Park Jae-hyun.)"
+  },
+  {
+    "name": "유성수 → 柳星水",
+    "alias": [],
+    "description": "患者姓名，其Ego形态是喜鹊。(Patient's name, whose Ego form is a magpie.)"
+  },
+  {
+    "name": "유성수",
+    "alias": [
+      "柳成秀"
+    ],
+    "description": "在新文本中首次出现的患者，职业是三井证券的科长，在病房炒股，外表看起来比实际年龄年轻。"
+  },
+  {
+    "name": "이경원 → 李敬源",
+    "alias": [],
+    "description": "三叉神经痛患者，预定接受微血管减压术。"
+  },
+  {
+    "name": "이경원 → 李京元",
+    "alias": [],
+    "description": "患者姓名，50岁，患有三叉神经痛，由权在范科长主刀手术。(Patient's name, 50 years old, suffering from trigeminal neuralgia, operated on by Chief Kwon Jae-beom)."
+  },
+  {
+    "name": "손지애",
+    "alias": [
+      "지애"
+    ],
+    "description": "孙贤柱 (손현주) 的女儿。"
+  },
+  {
+    "name": "김성민 → 金圣民",
+    "alias": [],
+    "description": "呼吸内科住院医生，向主角请求会诊。"
+  },
+  {
+    "name": "김성민",
+    "alias": [
+      "成民"
+    ],
+    "description": "医生，向朴在贤说明杨素拉情况。"
+  },
+  {
+    "name": "양소라",
+    "alias": [
+      "素拉"
+    ],
+    "description": "患者姓名，30岁，烧炭自杀未遂，脑死亡。"
+  },
+  {
+    "name": "박재현",
+    "alias": [],
+    "description": "主角，查看杨素拉情况的医生。"
+  },
+  {
+    "name": "양소라 → 杨素拉",
+    "alias": [],
+    "description": "患者姓名，被诊断为脑死亡。(Patient diagnosed with brain death)."
+  },
+  {
+    "name": "유원호",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "유원호 → 柳元浩",
+    "alias": [],
+    "description": "强行推进脑死亡患者手术的专科培训医生 (펠로우)。"
+  },
+  {
+    "name": "존 F 케네디 → 约翰·F·肯尼迪",
+    "alias": [],
+    "description": "美国总统，其女儿接受了额叶切除术。(John F. Kennedy: US President whose daughter underwent a frontal lobectomy)."
+  },
+  {
+    "name": "`회사원 에고` → 上班族模样的Ego",
+    "alias": [],
+    "description": "李时亨的Ego形态。(Lee Si-hyung's Ego form, resembling an office worker)"
+  },
+  {
+    "name": "유 강사 → 柳医生",
+    "alias": [],
+    "description": "在对话中被提及的医生，主张要为脑死亡患者动手术。"
+  },
+  {
+    "name": "김승국 → 金胜国",
+    "alias": [],
+    "description": "权在范的朋友，财团常务理事。"
+  },
+  {
+    "name": "손대철 → 孙大哲",
+    "alias": [],
+    "description": "权在范的朋友，非执行监事。"
+  },
+  {
+    "name": "박철수 → 朴哲秀",
+    "alias": [],
+    "description": "议员，曾参选总统，被视为潜在候选人，医生出身。"
+  },
+  {
+    "name": "`승호` → `胜浩`",
+    "alias": [],
+    "description": "在餐厅突然倒地的中年男子姓名 (由同行者呼唤得知)。"
+  },
+  {
+    "name": "유정호 → 柳元浩",
+    "alias": [],
+    "description": "专科培训医生二年资，朴在贤请求科长将其开除的人物。(注：中文译文写作“柳元浩”，与术语库中已存在的 `유원호 / 柳元浩` 姓名及身份（专科培训医生）一致，且均涉及不当行为。韩文原文此处写作 `유정호` 极有可能是 `유원호` 的笔误/音近致误，但根据提取规则，此处记录原文出现的 `유정호`。)"
+  },
+  {
+    "name": "강두영 → 姜斗英",
+    "alias": [],
+    "description": "医院院长，在新文本中首次出现的人物。"
+  },
+  {
+    "name": "병원장님 → 院长",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "honorific",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "本段新文本中未明确出现需要添加到“人物”类别的新术语。",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "서동주 → 徐东柱",
+    "alias": [],
+    "description": "患者姓名，50岁，患有髓母细胞瘤2期，需要手术。(Patient name, 50 years old, suffering from medulloblastoma stage 2, requiring surgery)."
+  },
+  {
+    "name": "이시형",
+    "alias": [
+      "시형아"
+    ],
+    "description": "李时亨，参与对话的住院医生 (文中与高尚烨交谈)。 (在新文本中被朴在贤称呼为“时亨”)"
+  },
+  {
+    "name": "`큰 아들` → 老大",
+    "alias": [],
+    "description": "母亲对长子（朴在贤）的称呼。(Mother's term for her eldest son, Park Jae-hyun)."
+  },
+  {
+    "name": "큰 아들 → 老大",
+    "alias": [],
+    "description": "母亲对长子（朴在贤）的称呼。(Mother's term for her eldest son, Park Jae-hyun)."
+  },
+  {
+    "name": "우리 아들 → 我们儿子",
+    "alias": [],
+    "description": "母亲在对话中提及朴在贤时的称呼。(Mother's term referring to Park Jae-hyun in conversation)."
+  },
+  {
+    "name": "이인철 → 李仁哲",
+    "alias": [],
+    "description": "团长，军衔为大校（肩章上有三朵木槿花）。"
+  },
+  {
+    "name": "연대장 → 团长",
+    "alias": [],
+    "description": "军事职位，部队团级单位的最高指挥官。(注: 文本中出现的是带敬语后缀的`연대장님`)"
+  },
+  {
+    "name": "최고 지휘자 → 最高指挥官",
+    "alias": [],
+    "description": "文中朴在贤决定要去问好的对象，指团长李仁哲。"
+  },
+  {
+    "name": "李仁哲",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "李承完",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "이두영",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "조용민",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "조용민 → 赵勇民",
+    "alias": [],
+    "description": "在治疗室与朴在贤互动的士兵，显得犹豫或资历较浅。"
+  },
+  {
+    "name": "이두영 → 李斗永",
+    "alias": [],
+    "description": "急匆匆呼叫朴在贤的士兵。"
+  },
+  {
+    "name": "강원배 → 姜元裴",
+    "alias": [],
+    "description": "资历深厚的军士长，朴在贤在军队遇到的第一位患者。"
+  },
+  {
+    "name": "강원배",
+    "alias": [
+      "주임원사님"
+    ],
+    "description": ""
+  },
+  {
+    "name": "주임원사 → 军士长",
+    "alias": [],
+    "description": "韩国军队中的高级士官军衔/职位，姜元裴的职位。"
+  },
+  {
+    "name": "중대장 → 连长",
+    "alias": [],
+    "description": "军事职位，文中朴在贤在军队担任的职位或称呼。"
+  },
+  {
+    "name": "한승국",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "최대호 → 崔大浩",
+    "alias": [],
+    "description": "新出现的士兵患者，军衔为上等兵 (일병)，因脚后跟疼痛前来就诊。(New soldier patient, Private First Class (일병), seeking treatment for heel pain)."
+  },
+  {
+    "name": "이원형",
+    "alias": [
+      "애무"
+    ],
+    "description": "李元亨 (别名: AM): 与李斗永一同乘坐救护车的士兵，参与了关于新连长朴在贤的对话。李斗永称呼他为“애무 (AM)”。"
+  },
+  {
+    "name": "이원형 → 李元亨",
+    "alias": [],
+    "description": "医务室常客，军衔为兵长 (병장)，喜欢取笑医务兵李斗永，称其为“애무 (爱抚)”。"
+  },
+  {
+    "name": "김진용 → 金振勇",
+    "alias": [],
+    "description": "士兵姓名，由李斗永提及。"
+  },
+  {
+    "name": "박준",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "염병규",
+    "alias": [],
+    "description": "中士军衔，与李斗永一同去网吧。"
+  },
+  {
+    "name": "이형근 → 李亨根",
+    "alias": [],
+    "description": "腹股沟瘙痒的士兵患者。(音译，术语库未收录的新人物)"
+  },
+  {
+    "name": "박명은 → 朴明恩",
+    "alias": [],
+    "description": "朴草绿的朋友。"
+  },
+  {
+    "name": "박명은",
+    "alias": [],
+    "description": "朴草绿的朋友，参与了关于结婚话题的对话。"
+  },
+  {
+    "name": "백도윤 → 白道允",
+    "alias": [],
+    "description": "士兵患者，其Ego形态是虫子，出现流感症状和被虫咬的感染迹象。"
+  },
+  {
+    "name": "백도윤",
+    "alias": [
+      "无"
+    ],
+    "description": "新角色，一名上等兵，因身体不适接受军医朴在贤的诊治。"
+  },
+  {
+    "name": "김태민",
+    "alias": [
+      "泰民"
+    ],
+    "description": "上等兵，将军的儿子，赵勇民提及的人物。"
+  },
+  {
+    "name": "김두한",
+    "alias": [],
+    "description": "历史人物，电影《将军的儿子》的主人公。"
+  },
+  {
+    "name": "구제성 → 具济成",
+    "alias": [],
+    "description": "军事职位是小队长 (소대장)，与主角朴在贤互动，请求关注士兵杨圭贤。"
+  },
+  {
+    "name": "양규현 → 杨圭贤",
+    "alias": [],
+    "description": "士兵姓名，军衔是上等兵 (일병)，具济成请求主角关注的士兵。"
+  },
+  {
+    "name": "연대장님 → 团长",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "김규현",
+    "alias": [
+      "규현"
+    ],
+    "description": "士兵姓名，因与后辈发生冲突而接受主角（朴在贤）问话。(Kim Gyu-hyun: Soldier's name, being interviewed by the protagonist about a conflict with a junior)."
+  },
+  {
+    "name": "김규현 → 金圭贤",
+    "alias": [],
+    "description": "士兵姓名，因与后辈发生冲突而接受主角（朴在贤）问话。(Kim Gyu-hyun: Soldier's name, being interviewed by the protagonist about a conflict with a junior)."
+  },
+  {
+    "name": "김태민 → 金泰民",
+    "alias": [],
+    "description": "士兵患者，因头痛加剧被朴在贤带到国军首都医院。(注：是新文本中首次出现的人物。)"
+  },
+  {
+    "name": "양우준 → 杨宇俊",
+    "alias": [],
+    "description": "神经外科值班医生 (Neurosurgery resident on duty)。"
+  },
+  {
+    "name": "양우준",
+    "alias": [
+      "양 선생님"
+    ],
+    "description": "杨医生，在国军防卫医院与朴在贤对话的医生。(Doctor Yang, who converses with Park Jae-hyun at the Armed Forces Defense Hospital. *注：文本中仅出现“杨医生 (양 선생님)”和“杨宇俊的回答 (양우준의 대답)”，全名基于常见姓氏推测，实际姓名待确认*)。"
+  },
+  {
+    "name": "홍윤석",
+    "alias": [],
+    "description": "洪允锡 (主角的朋友，被描述为话痨、有趣的综艺咖类型)"
+  },
+  {
+    "name": "홍윤석 → 洪允锡",
+    "alias": [],
+    "description": "与主角同行的消化外科专科医生，在新文本中首次出现。"
+  },
+  {
+    "name": "`제임스 하딘` → 詹姆斯·哈丁",
+    "alias": [],
+    "description": "克洛雷斯医院院长。"
+  },
+  {
+    "name": "`김 소령` → 金少校",
+    "alias": [],
+    "description": "金智妍的军衔 (少校)。 (注: 基于术语库已知金智妍为此人)"
+  },
+  {
+    "name": "金智妍",
+    "alias": [],
+    "description": "实务支援团团长，医务军官，军衔为少校，在海地机场迎接主角一行。(注意: 现有术语库中已有同名“金智妍”，但身份是负责脑肿瘤手术的女教授，此为新出现的不同人物。)"
+  },
+  {
+    "name": "조쉬",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "조쉬 브라운",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "쇼펜하우어 → 叔本华",
+    "alias": [],
+    "description": "德国哲学家，洪允锡在对话中提及的人物。(German philosopher Arthur Schopenhauer, mentioned by Hong Yun-seok)."
+  },
+  {
+    "name": "멜리사 → 梅丽莎",
+    "alias": [],
+    "description": "与主角朴在贤在克洛雷斯医院走廊首次互动的女性工作人员，在药剂科工作。(Woman staff member Park Jae-hyun first interacts with in the corridor of Flores Hospital, works in the Pharmacy Department)."
+  },
+  {
+    "name": "양미래 → 杨未来",
+    "alias": [],
+    "description": "更新描述 - 确认身份为隶属太阳部队的护士军官，在克洛雷斯医院神经外科门诊工作。(Updated description - Confirmed identity as a Nurse Officer belonging to the Tae-yang Unit, working at the outpatient clinic of Flores Hospital's Neurosurgery Department)."
+  },
+  {
+    "name": "모이즈",
+    "alias": [],
+    "description": "翻译，帮助主角朴在贤与海地当地患者沟通。"
+  },
+  {
+    "name": "아이의 어머니 → 孩子的母亲",
+    "alias": [],
+    "description": "首次就诊的脑积水患儿的母亲。(The mother of the infant hydrocephalus patient who presented for the first time.)"
+  },
+  {
+    "name": "루이 → 路易",
+    "alias": [],
+    "description": "法国家庭医学医生，其病历记录非常认真仔细。"
+  },
+  {
+    "name": "닥터 박 → 朴医生",
+    "alias": [],
+    "description": "梅丽莎在对话中对朴在贤的称呼 (Melissa's way of addressing Park Jae-hyun in the dialogue)."
+  },
+  {
+    "name": "제임스",
+    "alias": [],
+    "description": "克洛雷斯医院院长 (Director of Klores Hospital)"
+  },
+  {
+    "name": "로잔나 → 洛桑娜",
+    "alias": [],
+    "description": "手术室护士，非手术专科，临时被调来协助朴在贤，因操作失误导致微出血。"
+  },
+  {
+    "name": "야스멜 → 亚斯梅尔",
+    "alias": [],
+    "description": "手术室护士（或临时调来的护士），与洛桑娜一同被提及非手术专科。"
+  },
+  {
+    "name": "로잔나",
+    "alias": [
+      "无"
+    ],
+    "description": "初步被任命为第一助手，后因朴在贤判断其可能能力不足而被降为第二助手，看起来经验不足。(Initially first assistant, demoted to second due to perceived lack of skill)."
+  },
+  {
+    "name": "야스멜",
+    "alias": [
+      "无"
+    ],
+    "description": "工作不到一个月的新人护士，被朴在贤提升为第一助手进行尝试。(New nurse with less than a month's experience, promoted to first assistant by Park Jae-hyun)."
+  },
+  {
+    "name": "파비앙 → 法比安",
+    "alias": [],
+    "description": "昨天接受手术的患者，头部嵌着子弹 (Patient who underwent surgery yesterday, had a bullet embedded in his head)."
+  },
+  {
+    "name": "이지훈 → 李智勋",
+    "alias": [],
+    "description": "太阳部队的军医，内科医生，与朴在贤在海地克洛雷斯医院相遇。(注: 术语库中已有同名人物，但身份是警官，此为新出现的同名不同人。)"
+  },
+  {
+    "name": "윤미르 → 尹米尔",
+    "alias": [],
+    "description": "皱着眉头的士兵，主诉腹痛、头痛、恶心。"
+  },
+  {
+    "name": "윤미르",
+    "alias": [
+      "윤미르"
+    ],
+    "description": "新出现的患者，其Ego形态为麻花。"
+  },
+  {
+    "name": "이 선생님 → 李医生",
+    "alias": [],
+    "description": "对话中对李智勋医生的称呼。"
+  },
+  {
+    "name": "윤 상병",
+    "alias": [
+      "윤미르"
+    ],
+    "description": "患者姓名，上等兵军衔，男性。因腹痛就诊，被朴在贤怀疑患有肠套叠。"
+  },
+  {
+    "name": "이해윤 수녀",
+    "alias": [
+      "李海伦修女"
+    ],
+    "description": "在海地进行传教活动的修女，与主角互动。"
+  },
+  {
+    "name": "소사 → 索萨",
+    "alias": [],
+    "description": "递给主角泥土饼干的海地小孩名字。(Child in Haiti who gave the mud cookie to the protagonist)."
+  },
+  {
+    "name": "박중혁 → 朴重赫",
+    "alias": [],
+    "description": "伸长脖子望向村庄西侧火海的小队长。(Platoon leader looking towards the fire in the west)."
+  },
+  {
+    "name": "김양호 → 金良浩",
+    "alias": [],
+    "description": "主角在军队遇到的通信兵。(Appears as a new character mentioned by name)."
+  },
+  {
+    "name": "최익현",
+    "alias": [
+      "익현"
+    ],
+    "description": "医务兵，在朴在贤指示下对索萨进行胸外按压。"
+  },
+  {
+    "name": "철호",
+    "alias": [],
+    "description": "医务兵，在朴在贤指示下协助处理患者索萨（抬高头部、放置冰袋）。"
+  },
+  {
+    "name": "양정학 → 杨政学",
+    "alias": [],
+    "description": "军医，被主角朴在贤在停车场叫住要烟。"
+  },
+  {
+    "name": "베라",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "닥터 박",
+    "alias": [
+      "朴医生"
+    ],
+    "description": "对主角朴在贤的另一种称呼 (Another way to address the protagonist Park Jae-hyun)。"
+  },
+  {
+    "name": "베가",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "모이즈 → 莫伊兹",
+    "alias": [],
+    "description": "患者姓名，34岁，因上消化道出血（UGI bleeding）正在接受治疗。"
+  },
+  {
+    "name": "카루스",
+    "alias": [
+      "无",
+      "카파",
+      "卡帕"
+    ],
+    "description": "与主角对话的人物，可能是翻译。(Carus (Alias: None): Character interacting with the protagonist, potentially a translator)."
+  },
+  {
+    "name": "카루스 → 卡鲁斯",
+    "alias": [],
+    "description": "护士，其Ego形态与她本人相似但穿着破旧、有缝补痕迹的便服，主角观察其Ego以寻找与C型肝炎的联系。"
+  },
+  {
+    "name": "멜리사",
+    "alias": [],
+    "description": "약제과 직원, 박재현과 처음 복도에서 상호작용한 여성 직원 (Pharmacy staff, woman Park Jae-hyun first interacts with in the corridor)"
+  },
+  {
+    "name": "리사",
+    "alias": [],
+    "description": "詹姆斯在诊室打招呼的护士。"
+  },
+  {
+    "name": "조르디 → 乔尔迪",
+    "alias": [],
+    "description": "患者，莫伊兹的家属（根据上下文推断，乔尔迪是患者，莫伊兹是陪同家属），被诊断为椎管狭窄症。"
+  },
+  {
+    "name": "조용필 → 赵容弼",
+    "alias": [],
+    "description": "著名歌手 (文中用于与乔尔迪比较)。"
+  },
+  {
+    "name": "엘리",
+    "alias": [],
+    "description": "护士姓名，在新文本中首次出现，与患者乔尔迪就插入导尿管问题发生争执。"
+  },
+  {
+    "name": "자라 → 扎拉",
+    "alias": [],
+    "description": "担任第二助手，协助朴在贤进行内窥镜手术的护士。"
+  },
+  {
+    "name": "제롬 → 杰罗姆",
+    "alias": [],
+    "description": "美国派遣来的神经科医生，在手术观摩室与詹姆斯一同观看朴在贤手术。"
+  },
+  {
+    "name": "제롬",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "엘라인",
+    "alias": [
+      "艾琳"
+    ],
+    "description": "患者的母亲，与主角朴在贤互动。(Patient's mother interacting with Park Jae-hyun)."
+  },
+  {
+    "name": "엘라인 → 艾琳",
+    "alias": [],
+    "description": "脑积水患儿的母亲姓名。"
+  },
+  {
+    "name": "조르디",
+    "alias": [],
+    "description": "患者，朴在贤为其进行了脊柱手术。"
+  },
+  {
+    "name": "통역사",
+    "alias": [],
+    "description": "指翻译人员，文中指乔尔迪旁边的翻译。"
+  },
+  {
+    "name": "무희들",
+    "alias": [],
+    "description": "舞者，指舞台上表演的舞者。"
+  },
+  {
+    "name": "핸썸 가이",
+    "alias": [],
+    "description": "帅哥，医院大厅里有人对朴在贤的称呼。"
+  },
+  {
+    "name": "클리프",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "根据新文本，主角称呼他为“卡帕",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "Protagonist calls him Kapa/카파, Chinese translation also uses 卡帕. Previously listed as Carus/카루스",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "카파 → 卡帕",
+    "alias": [],
+    "description": "与主角对话，为克里夫去世感到难过的同伴或病友。(Kapa: Companion or fellow patient who spoke with the protagonist and expressed sadness over Cliff's death)."
+  },
+  {
+    "name": "클리프 → 克里夫",
+    "alias": [],
+    "description": "已故患者，卡帕的说话对象，外貌特征是大秃头、缺两颗门牙。(Cliff: Deceased patient, Kapa's acquaintance, described as bald with two missing front teeth)."
+  },
+  {
+    "name": "리암 → 利亚姆",
+    "alias": [],
+    "description": "重症监护室的患者，术后昏迷十多天后恢复意识。(Liam: Patient in the ICU who regained consciousness after being comatose for over ten days post-surgery)."
+  },
+  {
+    "name": "리암 → 利阿姆",
+    "alias": [],
+    "description": "法国来的、头部枪伤的重症监护室患者。"
+  },
+  {
+    "name": "노아",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "폴",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "노아 → 诺亚",
+    "alias": [],
+    "description": "在巴黎荣军院医院工作，邀请主角朴在贤前往工作的医生。"
+  },
+  {
+    "name": "사미르 → 萨米尔",
+    "alias": [],
+    "description": "安置室冷藏柜上出现的名字。(Name on the mortuary refrigerator)."
+  },
+  {
+    "name": "새넌 → 珊农",
+    "alias": [],
+    "description": "安置室冷藏柜上出现的名字。(Name on the mortuary refrigerator)."
+  },
+  {
+    "name": "페이나 → 佩纳",
+    "alias": [],
+    "description": "安置室冷藏柜上出现的名字。(Name on the mortuary refrigerator)."
+  },
+  {
+    "name": "에미엘 → 埃米尔",
+    "alias": [],
+    "description": "安置室冷藏柜上出现的名字。(Name on the mortuary refrigerator)."
+  },
+  {
+    "name": "리커스 → 利库斯",
+    "alias": [],
+    "description": "安置室冷藏柜上出现的名字。(Name on the mortuary refrigerator)."
+  },
+  {
+    "name": "홍 선생님 → 洪医生",
+    "alias": [],
+    "description": "对洪允锡医生的称呼 (现有术语库包含 `홍윤석`, 但此称呼形式是新的)。"
+  },
+  {
+    "name": "소령님 → 少校您",
+    "alias": [],
+    "description": "对金智妍少校的尊称 (现有术语库在金智妍描述中提及`소령`军衔，但此称呼形式是新的)。"
+  },
+  {
+    "name": "안드레아 → 安德莉亚",
+    "alias": [],
+    "description": "艾琳的孩子，接受了脑室腹腔分流术。"
+  },
+  {
+    "name": "안드레아",
+    "alias": [],
+    "description": "患有脑积水的小患者，艾琳的女儿。(Andrea: Young patient with hydrocephalus, Elaine's daughter.)"
+  },
+  {
+    "name": "리코 → 里科",
+    "alias": [],
+    "description": "反政府武装(반군)的首领(대장)。 (Leader/Chief of the rebel forces)."
+  },
+  {
+    "name": "대장 / 대장님 → 首领",
+    "alias": [],
+    "description": "反政府武装首领里科的职位或称呼。(Title/position of the rebel leader Rico)."
+  },
+  {
+    "name": "주안 → 朱安",
+    "alias": [],
+    "description": "由萨米尔推荐协助朴在贤手术的人员。"
+  },
+  {
+    "name": "위커스 → 维克斯",
+    "alias": [],
+    "description": "反政府武装的突击队长。"
+  },
+  {
+    "name": "마커스",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "사미르",
+    "alias": [],
+    "description": "박재현의 수술을 보조하는 인물. (萨米尔: 协助朴在贤手术的人物。)"
+  },
+  {
+    "name": "야말",
+    "alias": [
+      "亚马尔"
+    ],
+    "description": "被里科称呼的干部级人物 (The cadre/officer addressed by Rico)。"
+  },
+  {
+    "name": "제임스 → 詹姆斯",
+    "alias": [],
+    "description": "克洛雷斯医院院长，在沙发上与路易谈话。(James: Director of Klores Hospital, speaking with Louis on the sofa)."
+  },
+  {
+    "name": "부병원장 → 副院长",
+    "alias": [],
+    "description": "医院内的副院长职位。(Vice Hospital Director: Position within the hospital)."
+  },
+  {
+    "name": "에비앙",
+    "alias": [
+      "단장님"
+    ],
+    "description": "跨国医疗援助监察团团长，前来与詹姆斯和朴在贤等人会面，揭露詹姆斯挪用医疗用品的行为。(Head of the multinational medical support inspection team, confronts James about embezzlement)."
+  },
+  {
+    "name": "이태헌 → 李泰宪",
+    "alias": [],
+    "description": "二年资住院医生，在新文本中首次出现。"
+  },
+  {
+    "name": "차승환 → 车承焕",
+    "alias": [],
+    "description": "一年资住院医生，在新文本中首次出现。"
+  },
+  {
+    "name": "콩",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "부원장님 → 副院长",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "강도우",
+    "alias": [
+      "姜度宇"
+    ],
+    "description": "住院医生，在新文本中出现，正在指导尹瑞镇。"
+  },
+  {
+    "name": "윤서진",
+    "alias": [
+      "尹瑞镇"
+    ],
+    "description": "低年资住院医生，在新文本中出现，正在对患者进行气管插管。"
+  },
+  {
+    "name": "윤서진 → 尹瑞珍",
+    "alias": [],
+    "description": "医生，在新文本中出现，进行处置时遇到困难。(Doctor mentioned in the new text who encounters difficulty during a procedure)."
+  },
+  {
+    "name": "강도우 → 姜道宇",
+    "alias": [],
+    "description": "医生，在新文本中出现，指导尹瑞珍并尝试亲自进行气管插管。(Doctor mentioned in the new text who instructs Yoon Seo-jin and attempts intubation himself)."
+  },
+  {
+    "name": "金哲容",
+    "alias": [],
+    "description": "神经外科科长，在新文本中首次出现的人物。"
+  },
+  {
+    "name": "강대성 → 姜大成",
+    "alias": [],
+    "description": "助理教授，头发稀疏，在日山济元大学医院神经外科工作，是主角在新医院遇到的同事。"
+  },
+  {
+    "name": "강대성",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "김철용",
+    "alias": [],
+    "description": "神经外科科长，在新文本中首次出现的人物。"
+  },
+  {
+    "name": "김호창",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "박영수",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "나승호",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "돈 콜레오네 → 唐·柯里昂",
+    "alias": [],
+    "description": "电影《教父》中的角色名，金哲容Ego的参照物。(Don Corleone: Character from the movie The Godfather, referenced in relation to Kim Cheol-yong's Ego)."
+  },
+  {
+    "name": "전임자 → 前任主人",
+    "alias": [],
+    "description": "指研究室的前一位使用者。(Previous occupant/user of the research lab)."
+  },
+  {
+    "name": "박 교수 → 朴教授",
+    "alias": [],
+    "description": "对主角朴在贤的一种称呼方式，可能因其新获助理教授职位。"
+  },
+  {
+    "name": "서지민",
+    "alias": [
+      "无"
+    ],
+    "description": "门诊护士。(Format: Name (Alias): Description)"
+  },
+  {
+    "name": "조미나",
+    "alias": [
+      "赵美娜"
+    ],
+    "description": "诊疗预约室职员 (Staff at the clinic appointment office)。"
+  },
+  {
+    "name": "김지민",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "장윤화",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "박상철",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "박태식 → 朴泰植",
+    "alias": [],
+    "description": "朴草绿的父亲，原首尔济元大学医院院长，现任新成立的日山济元大学医院院长。"
+  },
+  {
+    "name": "양대환 → 杨大焕",
+    "alias": [],
+    "description": "40多岁男性患者，朴在贤门诊的第一个病人，气质知性。"
+  },
+  {
+    "name": "양대환",
+    "alias": [
+      "大焕"
+    ],
+    "description": "患者，前来咨询朴在贤，被诊断为海绵状血管瘤。(Yang Dae-hwan: Patient consulting Park Jae-hyun, diagnosed with cavernous hemangioma)."
+  },
+  {
+    "name": "도재훈",
+    "alias": [],
+    "description": "二年资的专科培训医生"
+  },
+  {
+    "name": "홍재호",
+    "alias": [],
+    "description": "综艺节目《医生驾到》的门面担当医生，突然要求提高3倍出场费并取消了出演。"
+  },
+  {
+    "name": "이중훈",
+    "alias": [
+      "이 교수"
+    ],
+    "description": "副教授，在新文本中首次出现并与主角朴在贤搭话。(Associate Professor who appears for the first time in the new text and speaks kindly to the protagonist, Park Jae-hyun)."
+  },
+  {
+    "name": "부교수님 → 副教授",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "김소라",
+    "alias": [
+      "无"
+    ],
+    "description": "IPBC电视台的PD (节目制作人)，负责《医生驾到》节目，在拍摄结束后与朴在贤互动。"
+  },
+  {
+    "name": "양 PD",
+    "alias": [
+      "无"
+    ],
+    "description": ""
+  },
+  {
+    "name": "유동건",
+    "alias": [],
+    "description": "望远大学皮肤科副教授，在节目录制现场与朴在贤发生言语冲突，试图质疑朴在贤的血管知识。"
+  },
+  {
+    "name": "이휘성 → 李辉星",
+    "alias": [],
+    "description": "《医生驾到》的主持人。"
+  },
+  {
+    "name": "박영실 → 朴英实",
+    "alias": [],
+    "description": "《医生驾到》的主持人。"
+  },
+  {
+    "name": "신봉서",
+    "alias": [
+      "봉서 씨"
+    ],
+    "description": "节目嘉宾"
+  },
+  {
+    "name": "이경규",
+    "alias": [],
+    "description": "韩国艺人，被申奉书提及"
+  },
+  {
+    "name": "신봉서 → 申奉书",
+    "alias": [],
+    "description": "在对话中被李中勋提及，是与主角一同出演《医生驾到》节目的后辈。（注：具体身份和角色尚不明确，此处基于文本信息添加。）"
+  },
+  {
+    "name": "이중훈 → 李中勋",
+    "alias": [],
+    "description": "副教授，在会议上首先对金哲容的机器人手术计划提出质疑。"
+  },
+  {
+    "name": "김현철 → 金贤哲",
+    "alias": [],
+    "description": "患者姓名，28岁，因频繁头痛发现脑动脉瘤。"
+  },
+  {
+    "name": "신지훈",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "김 선생님 → 金老师",
+    "alias": [],
+    "description": "对话中提到的负责病房管理的护士或相关人员（根据上下文推测）。 (Nurse or staff member responsible for ward management mentioned in the dialogue (inferred))."
+  },
+  {
+    "name": "유지숙",
+    "alias": [],
+    "description": "심장내과 레지던트 (柳智淑: 心脏内科住院医生)"
+  },
+  {
+    "name": "도재훈 → 道载勋",
+    "alias": [],
+    "description": "患者，被诊断为AMI（急性心肌梗死），朴在贤通过Ego信号发现其病情并进行了救助。"
+  },
+  {
+    "name": "도 강사님 → 都医生",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "**도 강사 → 都医生**",
+    "alias": [],
+    "description": "对专科培训医生都载勋 (도재훈) 的称呼，`강사` (讲师) 在此医院语境中常用于指代专科培训医生/临床讲师。(Title/Form of address for Fellow Do Jae-hoon, 'Kang-sa' often refers to Fellows/Clinical Instructors in this context)."
+  },
+  {
+    "name": "이미선 → 李美善",
+    "alias": [],
+    "description": "609号房患者，说话含糊不清，半边脸麻痹，诊断为急性脑梗塞。(Patient in room 609, slurred speech, facial paralysis, diagnosed with acute cerebral infarction)."
+  },
+  {
+    "name": "김정민",
+    "alias": [
+      "钟民"
+    ],
+    "description": "专科培训医生一年资，向朴在贤透露了道载勋被副教授使唤的情况。(Kim Jeong-min: First-year fellow doctor who provides information about Do Jae-hoon to Park Jae-hyun)."
+  },
+  {
+    "name": "도 강사 → 道医生",
+    "alias": [],
+    "description": "同事对专科培训医生道载勋(도재훈)的称呼。(Colleagues' title for fellow doctor Do Jae-hoon)."
+  },
+  {
+    "name": "구승환 → 具承焕",
+    "alias": [],
+    "description": "韩国神经外科学会会长 (在金哲容的对话中被提及)。"
+  },
+  {
+    "name": "Gu Seung-hwan",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "협회장님 → 会长",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "곽지곤",
+    "alias": [
+      "老郭"
+    ],
+    "description": "主角朴在贤在餐厅遇到的大学同学，立体定向神经外科的权威专家。"
+  },
+  {
+    "name": "곽지곤 → 郭志坤",
+    "alias": [],
+    "description": "新出现的医生，在对话中向朴在贤提问，是金哲容的朋友。"
+  },
+  {
+    "name": "권미래 → 权美莱",
+    "alias": [],
+    "description": "新患者，30多岁女性，患有严重手抖的网络漫画家。"
+  },
+  {
+    "name": "李中勋",
+    "alias": [
+      "중훈"
+    ],
+    "description": "副教授，金哲容计划引入机器人手术时首先提出质疑，后成为主角在副教授晋升中的竞争对手。其Ego形态为癞蛤蟆。(Associate Professor, first to question Kim Cheol-yong's robotic surgery plan, later becomes a rival for promotion. His Ego form is a toad)."
+  },
+  {
+    "name": "`자네` → 你",
+    "alias": [],
+    "description": "韩语中长辈或上级对晚辈或下级使用的非正式称呼“你”的一种形式，比一般的“너”更显亲近或带有权威感。(Informal 'you' used by seniors towards juniors)."
+  },
+  {
+    "name": "`과장님` → 科长",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "이태환 → 李泰宪",
+    "alias": [],
+    "description": "二年资住院医生，权美莱的主治医生。"
+  },
+  {
+    "name": "양희망",
+    "alias": [
+      "희망"
+    ],
+    "description": "患者姓名，六岁的脑瘫儿童。"
+  },
+  {
+    "name": "희망이",
+    "alias": [
+      "희망"
+    ],
+    "description": ""
+  },
+  {
+    "name": "강 교수 → 姜教授",
+    "alias": [],
+    "description": "对姜大成教授的常用称呼 (是现有术语库中人物`강대성`的常用称呼形式)。"
+  },
+  {
+    "name": "박 교수님 → 朴教授",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "윤 선생",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "徐智秀",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "방 교수 → 方教授",
+    "alias": [],
+    "description": "在新文本中通过电话首次出现的人物，被姜大成教授提及，似乎与患者“希望”的误诊有关。"
+  },
+  {
+    "name": "방승국 → 方胜国",
+    "alias": [],
+    "description": "在电话中与姜大成对话的人物，拒绝承担患者转诊的责任。(Name of the person Kang Dae-sung spoke with on the phone, who refused responsibility for the patient transfer). *(注：中文译文未给出姓名，此处根据韩文名音译)*"
+  },
+  {
+    "name": "도 선생님 → 都医生",
+    "alias": [],
+    "description": "Doctor Do (对都载勋的尊称)。"
+  },
+  {
+    "name": "기자님 → 记者先生",
+    "alias": [],
+    "description": "记者 (敬称) / Reporter (honorific title)"
+  },
+  {
+    "name": "계모 → 继母",
+    "alias": [],
+    "description": "继母 (Stepmother) (注: 现有术语库包含 `새 엄마`, 此为同义词。)"
+  },
+  {
+    "name": "김태환 → 金泰焕",
+    "alias": [],
+    "description": "患者，最近最当红的男演员之一，患有Arnold-Chiari综合征4型。"
+  },
+  {
+    "name": "金泰焕",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "李护士",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "이용광 → 李容光",
+    "alias": [],
+    "description": "耳鼻喉科的专科培训医生 (Fellow)，身材胖乎乎。"
+  },
+  {
+    "name": "서현철",
+    "alias": [
+      "无"
+    ],
+    "description": ""
+  },
+  {
+    "name": "보람",
+    "alias": [
+      "보람이"
+    ],
+    "description": "早产儿患者，因肠炎住院，后发现颅骨骨折和脑出血。(Premature baby patient, hospitalized for enteritis, later found with skull fracture and cerebral hemorrhage)."
+  },
+  {
+    "name": "보람이 부모",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "보람이",
+    "alias": [],
+    "description": "文中接受手术的受伤孩子。(The injured child undergoing surgery in the text)."
+  },
+  {
+    "name": "강정아 → 姜贞雅",
+    "alias": [],
+    "description": "妇产科女医生，与主角朴在贤就宝蓝受伤原因产生疑问和冲突。(Female doctor from OB/GYN who questions Park Jae-hyun about patient Boram's injury)."
+  },
+  {
+    "name": "강용석 → 姜勇硕",
+    "alias": [],
+    "description": "姜贞雅的父亲，医院理事会的高层。"
+  },
+  {
+    "name": "서현철 → 徐贤哲",
+    "alias": [],
+    "description": "在对话中插话，讲述姜贞雅过往劣迹的人物。"
+  },
+  {
+    "name": "`엄마` → 妈",
+    "alias": [],
+    "description": "Mother (common, informal term). (注：区别于术语库中已有的`어머니`)"
+  },
+  {
+    "name": "강 선생 → 姜医生",
+    "alias": [],
+    "description": "对姜贞雅医生的称呼，可能较随意或传统。(Form of address for Dr. Kang Jeong-ah, possibly informal or traditional)."
+  },
+  {
+    "name": "강제성 → 姜在成",
+    "alias": [],
+    "description": "姜贞雅的父亲，医院理事会高层 (是`강대성` / 姜大成的不同人物)。"
+  },
+  {
+    "name": "딸년 → 女儿",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "미중년 → 英俊中年男子",
+    "alias": [],
+    "description": "形容外貌英俊、气质良好的中年男性，文中用于描述金胜国。(Descriptive term for a handsome middle-aged man, used for Kim Seung-guk)."
+  },
+  {
+    "name": "이사님",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "강 이사",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "임원 이사",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "희원",
+    "alias": [
+      "无",
+      "希源"
+    ],
+    "description": "提及的人物，其未能及时手术的情况让主角联想到自己的父亲。"
+  },
+  {
+    "name": "여홍진 → 余洪镇",
+    "alias": [],
+    "description": "神经科助理教授，打电话给主角朴在贤希望转诊患者。"
+  },
+  {
+    "name": "펭디",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "상담자",
+    "alias": [],
+    "description": "고민을 들어주고 조언하는 사람 (咨询师/顾问: 倾听烦恼并提供建议的人)"
+  },
+  {
+    "name": "DJ",
+    "alias": [],
+    "description": "라디오 진행자 (电台主持人/唱片骑师)"
+  },
+  {
+    "name": "人物名称",
+    "alias": [],
+    "description": "郭志坤 (别名: 志坤, 坤): 立体定向神经外科的权威专家，主角的大学同学。(注：术语库已有同名人物 `곽지곤 → 郭志坤: 新出现的医生，在对话中向朴在贤提问，是金哲容的朋友。` 此处根据新文本提供更详细描述)"
+  },
+  {
+    "name": "할머니 → 老奶奶",
+    "alias": [],
+    "description": "指年老的女性；文中是郭志坤Ego的形态。(Noun: Grandmother/Old woman; describes Gwak Ji-gon's Ego form)."
+  },
+  {
+    "name": "사람 → 人",
+    "alias": [],
+    "description": "指人类或个人。(Person/Human)."
+  },
+  {
+    "name": "교수님 → 教授",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "용현아",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "애제자",
+    "alias": [],
+    "description": "得意门生"
+  },
+  {
+    "name": "권위자",
+    "alias": [],
+    "description": "权威专家"
+  },
+  {
+    "name": "동기분",
+    "alias": [],
+    "description": "同期 (敬语，`동기`的敬称形式)"
+  },
+  {
+    "name": "梁教授",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "곽도우 → 郭道宇",
+    "alias": [],
+    "description": "住院医生，在新文本中被朴在贤问话。(注：术语库已有`강도우 / 姜度宇`，此为新文本中出现的同名或不同名但职位角色相似的人物，按原文提取)。"
+  },
+  {
+    "name": "김상겸",
+    "alias": [
+      "金相谦"
+    ],
+    "description": "麻醉医生，在新文本中首次出现，负责为希源进行麻醉。"
+  },
+  {
+    "name": "장익현",
+    "alias": [],
+    "description": "实习生。"
+  },
+  {
+    "name": "金相谦",
+    "alias": [
+      "金医生"
+    ],
+    "description": "麻醉医生，被朴在贤认为是业务能力强但性格挑剔、说话难听的医生，朴在贤希望邀请他加入自己的手术团队。"
+  },
+  {
+    "name": "제갈량 → 诸葛亮",
+    "alias": [],
+    "description": "中国三国时期的历史人物，在金相谦的对话中被提及作为类比。"
+  },
+  {
+    "name": "유비 → 刘备",
+    "alias": [],
+    "description": "中国三国时期的历史人物，在金相谦的对话中被提及作为类比。"
+  },
+  {
+    "name": "이정아",
+    "alias": [],
+    "description": "与主角朴在贤谈论书籍销售情况的人物。(Character discussing book sales with the protagonist, Park Jae-hyun)."
+  },
+  {
+    "name": "李贞雅",
+    "alias": [],
+    "description": "佳香出版社的出版组组长。"
+  },
+  {
+    "name": "안중근 의사 → 安重根 义士",
+    "alias": [],
+    "description": "韩国独立运动家，文中引用其关于读书的名言。"
+  },
+  {
+    "name": "이강연 → 李强渊",
+    "alias": [],
+    "description": "一年资专科培训医生，朴在贤到达前担任主刀医生。(1st-year fellow who was the attending surgeon before Park Jae-hyun arrived)."
+  },
+  {
+    "name": "김상겸 → 金相谦",
+    "alias": [],
+    "description": "麻醉医生，与主角朴在贤互动。"
+  },
+  {
+    "name": "백재현 → 白在贤",
+    "alias": [],
+    "description": "白贤硕的父亲，权势熏天、连任五届的议员。"
+  },
+  {
+    "name": "백재현 → 白宰铉",
+    "alias": [],
+    "description": "议员，70多岁男性患者，患有半面痉挛。"
+  },
+  {
+    "name": "백재현",
+    "alias": [
+      "在贤"
+    ],
+    "description": "患者，白贤硕的父亲，年近八旬，患有偏侧面肌痉挛伴脑动静脉畸形。"
+  },
+  {
+    "name": "의원님",
+    "alias": [],
+    "description": "对患者白在贤的尊称。"
+  },
+  {
+    "name": "本段新文本中未明确出现需要添加到“人物”类别的新术语。所有提到的人物（金哲容, 朴在贤, 姜大成, 李中勋）均已在术语库中。",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "연인 → 恋人",
+    "alias": [],
+    "description": "指恋人或爱人 (Lover/Sweetheart)。"
+  },
+  {
+    "name": "강 선생",
+    "alias": [],
+    "description": "姜医生 (在此语境中特指对姜度宇的称呼)"
+  },
+  {
+    "name": "柳荷娜",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "유이나 → 宥伊娜",
+    "alias": [],
+    "description": "韩国女歌手，被誉为国民妹妹。"
+  },
+  {
+    "name": "유이나 → 刘伊娜",
+    "alias": [],
+    "description": "上周“邀请席”的主人公。"
+  },
+  {
+    "name": "표근우 → 表根宇",
+    "alias": [],
+    "description": "GBC电视台王牌主播，“邀请席”主持人。"
+  },
+  {
+    "name": "보조 PD → 助理PD",
+    "alias": [],
+    "description": "电视台节目制作人的助理 (Assistant Producer-Director)"
+  },
+  {
+    "name": "이채연",
+    "alias": [],
+    "description": "帮主角戴上直播设备的护士。"
+  },
+  {
+    "name": "Michael",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "金国焕教授",
+    "alias": [],
+    "description": ""
+  },
+  {
+    "name": "예비 장인 → 准岳父",
+    "alias": [],
+    "description": "家庭关系称谓，指未婚妻的父亲，文中是主角对医院院长的潜在关系描述。(Prospective father-in-law)."
+  },
+  {
+    "name": "金国焕",
+    "alias": [],
+    "description": "教授，在新文本中向主角说明患者情况。(Professor, explains patient situation to the protagonist in the new text)."
+  },
+  {
+    "name": "金东基",
+    "alias": [],
+    "description": "患者姓名，56岁，曾接受椎间盘突出症手术和前列腺癌抗癌治疗，现诊断为转移性脊柱肿瘤。(Patient's name, 56 years old, previously had surgery for herniated disc and chemotherapy for prostate cancer, now diagnosed with metastatic spinal tumor)."
+  },
+  {
+    "name": "이장훈 → 李长勋",
+    "alias": [],
+    "description": "在地下一层餐厅区与李中勋交谈的院务科青年职员，腰间佩戴脊柱矫形器。"
+  },
+  {
+    "name": "삼촌 → 叔叔",
+    "alias": [],
+    "description": "金国焕提及需要治疗的亲属。(Kim Guk-hwan's relative mentioned as needing treatment)."
+  },
+  {
+    "name": "이장훈",
+    "alias": [],
+    "description": "男主角朴在贤遇到的新人物，其Ego形态是穿着军装的癞蛤蟆。"
+  },
+  {
+    "name": "아들 → 儿子",
+    "alias": [],
+    "description": "家庭关系称谓，儿子 (通用基础词)。"
+  },
+  {
+    "name": "李在亨",
+    "alias": [],
+    "description": "重症外伤患者，朴在贤第一次主刀的患者类型。"
+  },
+  {
+    "name": "재형",
+    "alias": [
+      "在亨"
+    ],
+    "description": "从工地上坠落的重伤患者姓名。(Name of the severely injured patient who fell from the construction site)."
+  },
+  {
+    "name": "이재형",
+    "alias": [],
+    "description": "患者姓名，情况严重。"
+  },
+  {
+    "name": "장미라",
+    "alias": [],
+    "description": "护士姓名，在对话中提及。(与朴在贤互动)"
+  },
+  {
+    "name": "아인슈타인 → 爱因斯坦",
+    "alias": [],
+    "description": "比喻性地提及的著名科学家 (Famous scientist mentioned metaphorically)"
+  },
+  {
+    "name": "윤지호 → 尹志浩",
+    "alias": [],
+    "description": "中介，朴在贤就兵役舞弊问题与之会面。"
+  },
+  {
+    "name": "尹智浩",
+    "alias": [],
+    "description": "在对话中首次出现的人物，被描述为“著名的外科教授”，但后来又像是“邻家大叔”和电影里的“大叔”，负责进行“伪造诊断书”的业务。"
+  },
+  {
+    "name": "오빠 → 哥",
+    "alias": [],
+    "description": "男性称呼关系亲近的稍年长男性的非正式用语。(Informal term used by males to address slightly older males they are close to). (注: 主角朴在贤对金相谦说“就信哥一次吧/오빠 한번 믿어 봐라”)"
+  },
+  {
+    "name": "양승진 경장 → 杨胜镇警官",
+    "alias": [],
+    "description": "负责调查李中勋兵役舞弊案的警官 (军衔：`경장` 指警长/Police Corporal)。"
+  },
+  {
+    "name": "경장님",
+    "alias": [],
+    "description": "警官 (称呼): 对警察中“警长/Corporal”职级的尊称。 (Police Corporal (honorific form of address))"
+  },
+  {
+    "name": "지대호 → 池大浩",
+    "alias": [],
+    "description": "新出现的人物，脑血管方向的助理教授，曾是李中勋阵营成员。(New character, assistant professor in cerebrovascular surgery, former member of Lee Joong-hoon's faction)."
+  },
+  {
+    "name": "손종민 → 孙钟民",
+    "alias": [],
+    "description": "亲李中勋阵营中的一员，鼓起勇气上前与池大浩搭话。(Member of the pro-Lee Joong-hoon faction who bravely initiated conversation with Ji Dae-ho)."
+  },
+  {
+    "name": "가을이 → 小秋",
+    "alias": [],
+    "description": "朴在贤和朴草绿的女儿 (Daughter of Park Jae-hyun and Park Cho-rong)"
+  },
+  {
+    "name": "가을이 → 佳乙",
+    "alias": [],
+    "description": "朴在贤和朴草绿的孩子 (根据上下文推断)。"
+  },
+  {
+    "name": "장인어른 → 岳父大人",
+    "alias": [],
+    "description": "指岳父，即妻子的父亲 (朴在贤称呼朴草绿的父亲)。"
+  },
+  {
+    "name": "장인 → 岳父",
+    "alias": [],
+    "description": "家庭关系称谓，指妻子的父亲。(Wife's father). (注: 现有术语库有`장인어른 / 岳父大人`，但缺少此基础词)"
+  },
+  {
+    "name": "김정원",
+    "alias": [],
+    "description": "(간호사) 新提及的护士名字 (Kim Jeong-won: Nurse mentioned by name)."
+  },
+  {
+    "name": "이창국",
+    "alias": [],
+    "description": "(교수, 사직 앞둠) 新提及的教授名字，即将辞职 (Lee Chang-guk: Professor mentioned by name, about to resign)."
+  },
+  {
+    "name": "소 간호사님 → 苏护士",
+    "alias": [],
+    "description": "朴在贤提到的工作人员。"
+  },
+  {
+    "name": "탁 선생님 → 卓老师",
+    "alias": [],
+    "description": "朴在贤提到的工作人员（职位可能是护士或其他医务人员，“老师”在此为通用称呼）。"
+  },
+  {
+    "name": "이창국 → 李昌国",
+    "alias": [],
+    "description": "前江原大学医院创伤中心主任，韩国创伤外科领域的开拓者。"
+  }
+]

@@ -1,0 +1,532 @@
+[
+  {
+    "original": "神域",
+    "translated": "神的领域",
+    "description": "游戏名称"
+  },
+  {
+    "original": "星辰大陆",
+    "translated": "",
+    "description": "游戏中的一个大陆名称"
+  },
+  {
+    "original": "게임마켓 1983",
+    "translated": "游戏市场 1983",
+    "description": "作品（小说）的标题。"
+  },
+  {
+    "original": "현대 판타지",
+    "translated": "现代 奇幻",
+    "description": "作品的类型。"
+  },
+  {
+    "original": "KW북스",
+    "translated": "KW Books",
+    "description": "出版该作品的出版社名称。"
+  },
+  {
+    "original": "패밀리",
+    "translated": "红白机 (Famicom/Family Computer)",
+    "description": "指任天堂在1983年发售的家用游戏机 Family Computer (Famicom)。"
+  },
+  {
+    "original": "레트로 게임",
+    "translated": "复古游戏",
+    "description": "指早期或旧款的电子游戏。"
+  },
+  {
+    "original": "춘추 전국 시대",
+    "translated": "春秋战国时代",
+    "description": "在文中比喻游戏界历史上竞争极其激烈的时期。"
+  },
+  {
+    "original": "모바일",
+    "translated": "移动端",
+    "description": "指手机、平板电脑等移动设备平台。"
+  },
+  {
+    "original": "프로젝트",
+    "translated": "项目",
+    "description": "指正在讨论和计划的游戏开发任务。"
+  },
+  {
+    "original": "클라이언트",
+    "translated": "客户端",
+    "description": "指游戏软件中用户直接交互的部分，这里指需要交付的最终版本。"
+  },
+  {
+    "original": "베타 서비스",
+    "translated": "Beta测试",
+    "description": "指游戏正式发布前的公开或小范围测试阶段。"
+  },
+  {
+    "original": "유저 과금 체계",
+    "translated": "用户收费体系",
+    "description": "指游戏中设定用户付费的方式和结构。"
+  },
+  {
+    "original": "기획",
+    "translated": "企划",
+    "description": "指游戏开发的初始设计方案和构想。"
+  },
+  {
+    "original": "회사 이미지",
+    "translated": "公司形象",
+    "description": "指公司在公众和用户心中的声誉和印象。"
+  },
+  {
+    "original": "16비트",
+    "translated": "16位",
+    "description": "指计算或游戏领域的16位技术时代。"
+  },
+  {
+    "original": "사이킥 배틀",
+    "translated": "Psychic Battle",
+    "description": "游戏名称。"
+  },
+  {
+    "original": "한국",
+    "translated": "韩国",
+    "description": "国家名称。"
+  },
+  {
+    "original": "내가 없는 거리",
+    "translated": "没有我的街道",
+    "description": "标题名称，可能指作品或游戏名。"
+  },
+  {
+    "original": "미연시 프로젝트",
+    "translated": "美少女恋爱游戏项目",
+    "description": "项目名称。"
+  },
+  {
+    "original": "슈퍼 패밀리",
+    "translated": "超级家族",
+    "description": "可能指产品、品牌或团队名称。"
+  },
+  {
+    "original": "악마의 달걀",
+    "translated": "恶魔的蛋",
+    "description": "标题名称，可能指物品或游戏名。"
+  },
+  {
+    "original": "제작 발표회",
+    "translated": "制作发布会",
+    "description": "活动类型，指产品或项目的公开介绍活动。"
+  },
+  {
+    "original": "CEO게임",
+    "translated": "CEO游戏",
+    "description": "游戏名称或类型。"
+  },
+  {
+    "original": "대전 격투",
+    "translated": "对战格斗",
+    "description": "游戏类型。"
+  },
+  {
+    "original": "라온",
+    "translated": "Laon",
+    "description": "名称，可能指公司、团队或项目。"
+  },
+  {
+    "original": "동전을 집어 삼키는 귀신",
+    "translated": "吞噬硬币的鬼怪",
+    "description": "标题名称，可能指游戏或特定角色/怪物。"
+  },
+  {
+    "original": "몬스터 레이드",
+    "translated": "Monster Raid",
+    "description": "游戏名称或游戏机制。"
+  },
+  {
+    "original": "용자의 무덤",
+    "translated": "勇者之墓",
+    "description": "地点或关卡名称。"
+  },
+  {
+    "original": "드래곤 마운틴",
+    "translated": "Dragon Mountain",
+    "description": "地点或游戏名称。"
+  },
+  {
+    "original": "국제 전자제품 박람회",
+    "translated": "国际电子产品博览会",
+    "description": "大型展会名称。"
+  },
+  {
+    "original": "티라노 사우르스",
+    "translated": "霸王龙",
+    "description": "名称，可能与游戏或项目内容相关。"
+  },
+  {
+    "original": "바람의 동경",
+    "translated": "风之憧憬",
+    "description": "标题或概念名称。"
+  },
+  {
+    "original": "샤이닝 스타",
+    "translated": "Shining Star",
+    "description": "游戏、项目或角色名称。"
+  },
+  {
+    "original": "아이돌 프로젝트",
+    "translated": "Idol Project",
+    "description": "项目名称。"
+  },
+  {
+    "original": "Tokyo Game Show",
+    "translated": "东京电玩展",
+    "description": "著名电子游戏展览会名称。"
+  },
+  {
+    "original": "치킨 게임",
+    "translated": "恶性竞争 (字面意",
+    "description": "Chicken Game / 胆小鬼博弈): 指市场参与者之间进行激烈且可能两败俱伤的竞争状态，此处用于形容韩国游戏市场的状况。"
+  },
+  {
+    "original": "PC 온라인 시장",
+    "translated": "PC网游市场",
+    "description": "指基于个人电脑平台的在线游戏市场。"
+  },
+  {
+    "original": "넷블루",
+    "translated": "NetBlue",
+    "description": "文中提到的一个游戏公司名称，通过手游获得了巨大成功。"
+  },
+  {
+    "original": "부루마불",
+    "translated": "大富翁类游戏 (字面音译",
+    "description": "Burumabul): 指韩国流行的类似“大富翁”(Monopoly)的桌面游戏。文中指NetBlue公司抄袭了这类游戏的手游版本。"
+  },
+  {
+    "original": "시즌",
+    "translated": "版本 / 赛季 (Season)",
+    "description": "在游戏语境下，通常指游戏内容的更新周期、版本迭代或运营活动阶段。"
+  },
+  {
+    "original": "하청 기업",
+    "translated": "外包公司 / 下游厂商 (Subcontracting company)",
+    "description": "指接受其他公司委托，负责部分生产或业务的公司。"
+  },
+  {
+    "original": "게임타운",
+    "translated": "GameTown",
+    "description": "文中提到的一个公司名称，曾是主角所在公司的外包商。"
+  },
+  {
+    "original": "신작",
+    "translated": "新作 (New work/release)",
+    "description": "指新发布的游戏作品。"
+  },
+  {
+    "original": "메인 디렉터",
+    "translated": "主策划",
+    "description": "指项目中负责主要策划和指导的角色 (Main Director)。"
+  },
+  {
+    "original": "고객 만족팀",
+    "translated": "客户满意部",
+    "description": "公司内负责处理用户反馈和提升用户满意度的部门 (Customer Satisfaction Team)。"
+  },
+  {
+    "original": "유저 친화적",
+    "translated": "用户友好",
+    "description": "形容设计或策略更偏向于方便用户、让用户受益 (User-friendly)。"
+  },
+  {
+    "original": "무과금",
+    "translated": "不花钱的 (用户) / 免费玩家",
+    "description": "指在游戏中不进行付费的用户 (Non-paying user / Free-to-play user)。"
+  },
+  {
+    "original": "아이템",
+    "translated": "道具",
+    "description": "游戏中的物品 (Item)。"
+  },
+  {
+    "original": "프로그램",
+    "translated": "程序",
+    "description": "指计算机程序或编程 (Program)。"
+  },
+  {
+    "original": "디자인 팀장",
+    "translated": "设计组长",
+    "description": "负责设计团队的领导者 (Design Team Leader)。"
+  },
+  {
+    "original": "댓글",
+    "translated": "评论",
+    "description": "指用户在网络上发表的评论或留言 (Comment)。"
+  },
+  {
+    "original": "과장님",
+    "translated": "科长",
+    "description": "职位名称（科长/部门经理），主角（姜俊赫）在故事开头的职位，后被调往客户满意部担任科长。李代理以此称呼主角。"
+  },
+  {
+    "original": "제 2 개발팀",
+    "translated": "第二开发组",
+    "description": "公司内的一个部门名称，主角和李代理原先所在的团队。"
+  },
+  {
+    "original": "전 대표",
+    "translated": "前任代表",
+    "description": "指公司前任的代表理事（CEO）。"
+  },
+  {
+    "original": "아타리 쇼크",
+    "translated": "雅达利冲击",
+    "description": "指1983年左右北美游戏行业的大萧条事件，因大量劣质游戏涌入市场导致。(Atari Shock)"
+  },
+  {
+    "original": "아타리 사",
+    "translated": "雅达利公司",
+    "description": "指1980年代主导美国游戏市场的公司，与“雅达利冲击”事件相关。(Atari Inc.)"
+  },
+  {
+    "original": "E.T.",
+    "translated": "E.T. 游戏",
+    "description": "指雅达利公司发行的基于电影《E.T. the Extra-Terrestrial》的游戏，常被认为是导致“雅达利冲击”的代表性劣质游戏。"
+  },
+  {
+    "original": "모바일 게임 시장",
+    "translated": "移动端游戏市场 (Mobile Game Market)",
+    "description": "指基于手机、平板等移动设备平台的游戏市场。"
+  },
+  {
+    "original": "게임 기획자",
+    "translated": "游戏企划 (Game Planner/Designer)",
+    "description": "游戏开发中的职位，负责构思和设计游戏的核心玩法、规则和内容。"
+  },
+  {
+    "original": "갤러그",
+    "translated": "《小蜜蜂》(Galaga)",
+    "description": "1981年由Namco发行的经典街机射击游戏。"
+  },
+  {
+    "original": "게임 카트리지",
+    "translated": "游戏卡带",
+    "description": "游戏软件的物理载体，特指插入游戏机使用的卡带。"
+  },
+  {
+    "original": "근육맨",
+    "translated": "筋肉人",
+    "description": "游戏名称 (Kinnikuman)，在红白机上发行。"
+  },
+  {
+    "original": "황금 패키지",
+    "translated": "黄金版",
+    "description": "指《筋肉人》游戏的限量金色包装/卡带版本。"
+  },
+  {
+    "original": "일본",
+    "translated": "日本",
+    "description": "国家名称。"
+  },
+  {
+    "original": "옥션 경매",
+    "translated": "拍卖会",
+    "description": "指物品公开竞价出售的活动或平台 (Auction)，文中特指日本的网络拍卖。"
+  },
+  {
+    "original": "낙찰가",
+    "translated": "成交价",
+    "description": "拍卖会上的最终售出价格 (Winning bid price)。"
+  },
+  {
+    "original": "엔",
+    "translated": "日元",
+    "description": "日本的货币单位 (Yen)。"
+  },
+  {
+    "original": "패밀리 여름 캠프",
+    "translated": "红白机夏令营",
+    "description": "文中提及的一个与红白机（Family Computer）相关的活动名称。"
+  },
+  {
+    "original": "한정 미니카 게임",
+    "translated": "限定迷你赛车游戏",
+    "description": "文中提及的一款在红白机夏令营发放的限量版游戏名称。"
+  },
+  {
+    "original": "민텐도",
+    "translated": "任天堂",
+    "description": "指游戏公司任天堂 (Nintendo)。"
+  },
+  {
+    "original": "사장",
+    "translated": "社长",
+    "description": "公司职位，指总裁或负责人 (President/CEO)，文中指前任天堂社长。"
+  },
+  {
+    "original": "벌룬 파이트",
+    "translated": "气球大战",
+    "description": "游戏名称 (Balloon Fight)，由岩田聪创作。"
+  },
+  {
+    "original": "슈퍼마리지",
+    "translated": "超级玛丽",
+    "description": "著名游戏系列及其主角名称 (原文为`슈퍼마리지`，可能指代或为`슈퍼마리오` (Super Mario) 的笔误或特定称呼)。"
+  },
+  {
+    "original": "효과음",
+    "translated": "音效",
+    "description": "指游戏中配合动作或事件出现的声音效果 (Sound effect)。"
+  },
+  {
+    "original": "오락실",
+    "translated": "游戏厅",
+    "description": "指提供街机等电子游戏设备的娱乐场所 (Arcade/Game room)。"
+  },
+  {
+    "original": "비트음",
+    "translated": "比特声",
+    "description": "指早期（如8/16位机时代）电子游戏特有的、相对简单的电子合成音效 (Bit sound)。"
+  },
+  {
+    "original": "브라운관 TV",
+    "translated": "显像管电视",
+    "description": "指使用阴极射线管（CRT）技术的旧式电视机 (CRT TV)。"
+  },
+  {
+    "original": "차세대 게임",
+    "translated": "次世代游戏",
+    "description": "指采用当时最新技术标准开发的游戏，相对于文中所处的80/90年代背景 (Next-generation game)。"
+  },
+  {
+    "original": "닌자용검전 시리즈",
+    "translated": "《忍者龙剑传》系列",
+    "description": "特指一款或一系列具体的游戏名称 (Ninja Gaiden series)。"
+  },
+  {
+    "original": "파이널 프론티어",
+    "translated": "《最终前线》",
+    "description": "特指一款具体的游戏名称 (Final Frontier)。"
+  },
+  {
+    "original": "드래곤 오더",
+    "translated": "《巨龙指令》",
+    "description": "特指一款具体的游戏名称 (Dragon Order)。"
+  },
+  {
+    "original": "가속에 의한 관성",
+    "translated": "加速产生的惯性",
+    "description": "在文中指《气球大战》首次应用的一种物理效果，后来被《超级马力欧》借鉴。"
+  },
+  {
+    "original": "게임 & 워치",
+    "translated": "Game & Watch",
+    "description": "任天堂早期推出的一种便携式电子游戏机系列，被视为现代便携式游戏机的鼻祖/原型。"
+  },
+  {
+    "original": "스톱 애니메이션 기법",
+    "translated": "定格动画技术",
+    "description": "一种动画技术，通过在逐帧拍摄之间对物体进行微小的物理移动来制作动画 (Stop motion animation)。"
+  },
+  {
+    "original": "백라이트 기능",
+    "translated": "背光功能",
+    "description": "显示器的照明功能，使其在低光照条件下可见 (Backlight function)。"
+  },
+  {
+    "original": "회사원 게임",
+    "translated": "公司职员游戏",
+    "description": "文中讨论的特定 Game & Watch 游戏机的名称。"
+  },
+  {
+    "original": "동킹콤",
+    "translated": "大金刚",
+    "description": "任天堂发行的著名街机游戏 (Donkey Kong)。"
+  },
+  {
+    "original": "카린의 전설",
+    "translated": "卡琳的传说",
+    "description": "与《大金刚》和《龙珠》一同提及的游戏名称（可能是虚构的，或指《影之传说》等现有游戏）。"
+  },
+  {
+    "original": "드래곤볼",
+    "translated": "龙珠",
+    "description": "著名的日本漫画/动画系列，也有相关的游戏 (Dragon Ball)。"
+  },
+  {
+    "original": "플레이 방식",
+    "translated": "玩法",
+    "description": "指游戏的操作方式和规则。(Gameplay method/style)"
+  },
+  {
+    "original": "좌우의 방향키",
+    "translated": "左右方向键",
+    "description": "指游戏控制器上用于控制左右移动的按键。(Left/right direction keys)"
+  },
+  {
+    "original": "확인 버튼",
+    "translated": "确认按钮",
+    "description": "指游戏控制器上用于确认选择或执行动作的按键。(Confirmation button)"
+  },
+  {
+    "original": "바이어",
+    "translated": "客户",
+    "description": "源自英文 \"Buyer\"，在文中指商业上的客户或买方。(Buyer/Client)"
+  },
+  {
+    "original": "오너",
+    "translated": "老板",
+    "description": "源自英文 \"Owner\"，在文中指公司的所有者或老板。(Owner/Boss)"
+  },
+  {
+    "original": "시스템",
+    "translated": "系统 / 设定",
+    "description": "源自英文 \"System\"，在文中指游戏机制、规则或设定的整体框架。(System/Mechanic/Setup)"
+  },
+  {
+    "original": "액션",
+    "translated": "动作",
+    "description": "源自英文 \"Action\"，在文中指游戏中角色执行的动作。(Action)"
+  },
+  {
+    "original": "캐릭터",
+    "translated": "角色",
+    "description": "源自英文 \"Character\"，指游戏中的人物或形象。(Character)"
+  },
+  {
+    "original": "딜레이",
+    "translated": "延迟",
+    "description": "源自英文 \"Delay\"，指时间上的延后或推迟。(Delay)"
+  },
+  {
+    "original": "PC용 온라인 게임",
+    "translated": "PC网游",
+    "description": "指在个人电脑(PC)平台上运行的需要网络连接的多人游戏。(PC Online Game)"
+  },
+  {
+    "original": "모바일 게임",
+    "translated": "手游",
+    "description": "指在手机、平板等移动设备上运行的游戏。(Mobile Game)"
+  },
+  {
+    "original": "플레이 시간",
+    "translated": "游戏时间 / 单局时长",
+    "description": "指玩游戏所花费的时间，或指一局游戏持续的时间。(Playtime / Session length)"
+  },
+  {
+    "original": "노가다 플레이",
+    "translated": "枯燥的重复玩法 / 肝",
+    "description": "韩语游戏俚语，指游戏中需要大量重复、单调操作才能获得收益或进展的玩法，类似于中文的“肝”或“刷”。(Grinding / Repetitive gameplay, from 'Nogada' meaning repetitive manual labor)"
+  },
+  {
+    "original": "콘솔",
+    "translated": "游戏主机",
+    "description": "指专门用于玩电子游戏的主机设备 (Console)，例如 PlayStation、Xbox、Nintendo Switch 等，与文中提到的红白机 (패밀리) 属于同类。"
+  },
+  {
+    "original": "패키지 게임",
+    "translated": "实体版游戏",
+    "description": "指以物理介质（如卡带、光盘）形式销售的游戏，与下载版或在线游戏相对。"
+  },
+  {
+    "original": "엔딩",
+    "translated": "结局",
+    "description": "指游戏故事线或主要内容的终点或结尾部分 (Ending)。"
+  }
+]
